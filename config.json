@@ -1,49 +1,24 @@
 {
-  "spider": "",
-  "sites": [
+  "urls": [
     {
-      "key": "missav_2025",
       "name": "MissAV 2025",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hkvsak/ad18t/977e48908643ee12c477fa1850f5b044bc70f917/2025missav.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hkvsak/ad18t/977e48908643ee12c477fa1850f5b044bc70f917/2025missav.json"
     },
     {
-      "key": "adult2",
       "name": "Adult2 精选",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hkvsak/ad18t/977e48908643ee12c477fa1850f5b044bc70f917/adult2.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hkvsak/ad18t/977e48908643ee12c477fa1850f5b044bc70f917/adult2.json"
     },
     {
-      "key": "adult1",
       "name": "Adult1 经典",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/hkvsak/ad18t/977e48908643ee12c477fa1850f5b044bc70f917/adult1.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
-  ],
-  "lives": [
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hkvsak/ad18t/977e48908643ee12c477fa1850f5b044bc70f917/adult1.json"
+    },
     {
       "name": "Brazzers 直播",
-      "epg": "",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hkvsak/ad18t/977e48908643ee12c477fa1850f5b044bc70f917/Brazzers.m3u"
     },
     {
       "name": "IPTV18 直播",
-      "epg": "",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hkvsak/ad18t/977e48908643ee12c477fa1850f5b044bc70f917/iptv18.m3u"
     }
-  ],
-  "parses": [],
-  "flags": [],
-  "wallpaper": "",
-  "doh": [],
-  "rules": []
+  ]
 }
