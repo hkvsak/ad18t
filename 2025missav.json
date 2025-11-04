@@ -1,0 +1,198 @@
+{
+  "spider": "https://gh-proxy.com/https://github.com/mmniw88/CatVodTVSpider/raw/main/jar/18.jar;md5;d4e8f2a1b5c9e7f3a2b8d1c6e4f9a0b3",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+          ]
+        }
+      ]
+    }
+  ],
+  "sites": [
+    {
+      "key": "MissAV",
+      "name": "MissAV (18.jar 直连)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/https://github.com/mmniw88/CatVodTVSpider/raw/main/jar/18.jar;md5;d4e8f2a1b5c9e7f3a2b8d1c6e4f9a0b3",
+      "ext": "https://missav.ws/dm15/cn"
+    },
+    {
+      "key": "MissAV-Alt",
+      "name": "MissAV 镜像 (API)",
+      "type": 0,
+      "api": "https://missav.ws/dm15/cn/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "美少女",
+      "name": "美少女",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "淫水机",
+      "name": "淫水机",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "香奶儿",
+      "name": "香奶儿",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "白嫖",
+      "name": "白嫖",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小湿妹",
+      "name": "小湿妹",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黄A",
+      "name": "黄A",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "乐播",
+      "name": "乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "番号",
+      "name": "番号",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "老鸭",
+      "name": "老鸭",
+      "type": 0,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.77lehuo.com/aliplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "大地",
+      "name": "大地",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "芒果",
+      "name": "芒果",
+      "type": 0,
+      "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
+      "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_SP360",
+      "name": "91md",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "探探",
+      "name": "探探",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "KK写真",
+      "name": "KK写真",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "色南国",
+      "name": "色南国",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "鲨鱼",
+      "name": "鲨鱼",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "酷豆",
+      "name": "酷豆",
+      "type": 1,
+      "api": "https://kudouzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }   
+  ],
+  "parses": [
+    { "name": "OK解析", "type": 0, "url": "https://okjx.cc/?url=" },
+    { "name": "255解析", "type": 1, "url": "http://47.108.39.237:55/api//?key=ffQTjdEIKxqZYQgN2c&url=" },
+    { "name": "Json并发", "type": 2, "url": "Parallel" }
+  ]
+}
